@@ -122,6 +122,63 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &18364397
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4684692874739218523, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_Name
+      value: BabyShrimpie (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.1227665
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
 --- !u!1001 &136305873
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -179,6 +236,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f312071b42711f044906a648c92741c6, type: 3}
+--- !u!1001 &185414343
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4684692874739218523, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_Name
+      value: BabyShrimpie (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.3875284
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
 --- !u!1 &493668613
 GameObject:
   m_ObjectHideFlags: 0
@@ -521,7 +635,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 10
+          value: 3
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params: []
@@ -551,21 +665,36 @@ MonoBehaviour:
         serializedVersion: 2
         x: 52
         y: 171
-        width: 100
-        height: 16
+        width: 141
+        height: 32
       isBreakpoint: 0
       isSequence: 0
       hideUnused: 0
-      transitions: []
+      transitions:
+      - fsmEvent:
+          name: WaitToSpawnFood
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: FoodSpawner
+        linkStyle: 0
+        linkConstraint: 0
+        linkTarget: 0
+        colorIndex: 0
       actionData:
         actionNames:
+        - HutongGames.PlayMaker.Actions.RandomFloat
+        - HutongGames.PlayMaker.Actions.SetVector3XYZ
         - HutongGames.PlayMaker.Actions.CreateObject
+        - HutongGames.PlayMaker.Actions.Wait
         customNames:
         - 
-        actionEnabled: 01
-        actionIsOpen: 01
-        actionStartIndex: 00000000
-        actionHashCodes: 60532301
+        - 
+        - 
+        - 
+        actionEnabled: 01010101
+        actionIsOpen: 01010101
+        actionStartIndex: 0000000003000000090000000f000000
+        actionHashCodes: 2ee01704dfd72a046053230148c01101
         unityObjectParams: []
         fsmGameObjectParams:
         - useVariable: 0
@@ -604,13 +733,67 @@ MonoBehaviour:
         fsmVarParams: []
         fsmArrayParams: []
         fsmEnumParams: []
-        fsmFloatParams: []
+        fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: -7
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 7
+        - useVariable: 1
+          name: foodSpawnX
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 1
+          name: foodSpawnX
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 3
+        - useVariable: 1
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 1
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params: []
         fsmVector3Params:
         - useVariable: 1
+          name: foodSpawn
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0, z: 0}
+        - useVariable: 1
           name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: {x: 0, y: 0, z: 0}
+        - useVariable: 1
+          name: foodSpawn
           tooltip: 
           showInInspector: 0
           networkSync: 0
@@ -624,34 +807,62 @@ MonoBehaviour:
         fsmColorParams: []
         fsmRectParams: []
         fsmQuaternionParams: []
-        stringParams: []
-        byteData: 
+        stringParams:
+        - WaitToSpawnFood
+        byteData: 0000
         arrayParamSizes: 
         arrayParamTypes: []
         customTypeSizes: 
         customTypeNames: []
-        paramDataType: 1300000013000000130000001c0000001c00000013000000
+        paramDataType: 0f0000000f0000000f0000001c0000001c0000000f0000000f0000000f000000010000001300000013000000130000001c0000001c000000130000000f0000001700000001000000
         paramName:
+        - min
+        - max
+        - storeResult
+        - vector3Variable
+        - vector3Value
+        - x
+        - y
+        - z
+        - everyFrame
         - gameObject
         - parent
         - spawnPoint
         - position
         - rotation
         - storeObject
-        paramDataPos: 000000000100000002000000000000000100000003000000
-        paramByteDataSize: 000000000000000000000000000000000000000000000000
+        - time
+        - finishEvent
+        - realTime
+        paramDataPos: 000000000100000002000000000000000100000003000000040000000500000000000000000000000100000002000000020000000300000003000000060000000000000001000000
+        paramByteDataSize: 000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000001000000
     events:
     - name: Spawn Food
       isSystemEvent: 0
       isGlobal: 0
+    - name: WaitToSpawnFood
+      isSystemEvent: 0
+      isGlobal: 0
     globalTransitions: []
     variables:
-      floatVariables: []
+      floatVariables:
+      - useVariable: 1
+        name: foodSpawnX
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: 0
       intVariables: []
       boolVariables: []
       stringVariables: []
       vector2Variables: []
-      vector3Variables: []
+      vector3Variables:
+      - useVariable: 1
+        name: foodSpawn
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: {x: 0, y: 0, z: 0}
       colorVariables: []
       rectVariables: []
       quaternionVariables: []
@@ -663,7 +874,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 
+      variableCategoryIDs: 0000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
@@ -726,6 +937,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &674379004
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4684692874739218523, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_Name
+      value: Shrimpie (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.969568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c778a67abada0444b8b8d100159968d2, type: 3}
 --- !u!1001 &762709970
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -744,7 +1012,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.55
+      value: -4
       objectReference: {fileID: 0}
     - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1055,6 +1323,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f312071b42711f044906a648c92741c6, type: 3}
+--- !u!1001 &1380114596
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4684692874739218523, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_Name
+      value: BabyShrimpie (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.2756066
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
 --- !u!1 &1412393693
 GameObject:
   m_ObjectHideFlags: 0
@@ -1267,6 +1592,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1667344972
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4684692874739218523, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_Name
+      value: BabyShrimpie (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.120232
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
 --- !u!1001 &1724010240
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1500,7 +1882,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.17
+      value: -4
       objectReference: {fileID: 0}
     - target: {fileID: 5548023655787502513, guid: 533bd6d10343c8e4498c7c0fa41971ad, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1557,7 +1939,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.09
+      value: -4
       objectReference: {fileID: 0}
     - target: {fileID: 5548023655787502513, guid: c778a67abada0444b8b8d100159968d2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1614,3 +1996,8 @@ SceneRoots:
   - {fileID: 1929182783}
   - {fileID: 1895194788}
   - {fileID: 663413389}
+  - {fileID: 18364397}
+  - {fileID: 1667344972}
+  - {fileID: 674379004}
+  - {fileID: 1380114596}
+  - {fileID: 185414343}
