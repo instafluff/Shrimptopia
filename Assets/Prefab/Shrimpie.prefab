@@ -1360,16 +1360,16 @@ MonoBehaviour:
     dataVersion: 2
     usedInTemplate: {fileID: 0}
     name: FoodBehavior
-    startState: LookingForFood
+    startState: Is Full
     states:
-    - name: LookingForFood
+    - name: LookingForFood 2
       description: 
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 50
-        y: 100
-        width: 124
+        x: 391
+        y: 227.53125
+        width: 134
         height: 32
       isBreakpoint: 0
       isSequence: 0
@@ -1379,7 +1379,7 @@ MonoBehaviour:
           name: HasFoodInMind
           isSystemEvent: 0
           isGlobal: 0
-        toState: Fooding
+        toState: Fooding 2
         linkStyle: 0
         linkConstraint: 0
         linkTarget: 0
@@ -1461,24 +1461,24 @@ MonoBehaviour:
         - everyFrame
         paramDataPos: 0000000000000000000000000100000000000000010000000000000001000000
         paramByteDataSize: 0000000000000000010000000000000000000000000000000000000001000000
-    - name: Fooding
+    - name: Fooding 2
       description: 
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 57
-        y: 165
-        width: 106
+        x: 195
+        y: 215.50781
+        width: 100
         height: 32
       isBreakpoint: 0
       isSequence: 0
       hideUnused: 0
       transitions:
       - fsmEvent:
-          name: LookForFood
+          name: ImFull
           isSystemEvent: 0
           isGlobal: 0
-        toState: LookingForFood
+        toState: Is Full
         linkStyle: 0
         linkConstraint: 0
         linkTarget: 0
@@ -1527,7 +1527,7 @@ MonoBehaviour:
         fsmRectParams: []
         fsmQuaternionParams: []
         stringParams:
-        - LookForFood
+        - ImFull
         - 
         byteData: 01
         arrayParamSizes: 
@@ -1543,6 +1543,86 @@ MonoBehaviour:
         - everyFrame
         paramDataPos: 0000000000000000010000000000000000000000
         paramByteDataSize: 0000000000000000000000000000000001000000
+    - name: Is Full
+      description: 
+      colorIndex: 0
+      position:
+        serializedVersion: 2
+        x: 391
+        y: 111.5
+        width: 106
+        height: 32
+      isBreakpoint: 0
+      isSequence: 0
+      hideUnused: 0
+      transitions:
+      - fsmEvent:
+          name: LookForFood
+          isSystemEvent: 0
+          isGlobal: 0
+        toState: LookingForFood 2
+        linkStyle: 0
+        linkConstraint: 0
+        linkTarget: 0
+        colorIndex: 0
+      actionData:
+        actionNames:
+        - HutongGames.PlayMaker.Actions.RandomWait
+        customNames:
+        - 
+        actionEnabled: 01
+        actionIsOpen: 01
+        actionStartIndex: 00000000
+        actionHashCodes: 0d5f5c01
+        unityObjectParams: []
+        fsmGameObjectParams: []
+        fsmOwnerDefaultParams: []
+        animationCurveParams: []
+        functionCallParams: []
+        fsmTemplateControlParams: []
+        fsmEventTargetParams: []
+        fsmPropertyParams: []
+        layoutOptionParams: []
+        fsmStringParams: []
+        fsmObjectParams: []
+        fsmVarParams: []
+        fsmArrayParams: []
+        fsmEnumParams: []
+        fsmFloatParams:
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 0
+        - useVariable: 0
+          name: 
+          tooltip: 
+          showInInspector: 0
+          networkSync: 0
+          value: 10
+        fsmIntParams: []
+        fsmBoolParams: []
+        fsmVector2Params: []
+        fsmVector3Params: []
+        fsmColorParams: []
+        fsmRectParams: []
+        fsmQuaternionParams: []
+        stringParams:
+        - LookForFood
+        byteData: 00
+        arrayParamSizes: 
+        arrayParamTypes: []
+        customTypeSizes: 
+        customTypeNames: []
+        paramDataType: 0f0000000f0000001700000001000000
+        paramName:
+        - min
+        - max
+        - finishEvent
+        - realTime
+        paramDataPos: 00000000010000000000000000000000
+        paramByteDataSize: 00000000000000000000000001000000
     events:
     - name: HasFoodInMind
       isSystemEvent: 0
