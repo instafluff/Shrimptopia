@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Algae
+  m_Name: WaterGrass
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,7 +21,17 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 1053826427, guid: ac4f98fa530d14a4089c0000db310266, type: 3}
+      value: {fileID: 53419615, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - time: 0.125
+      value: {fileID: 1979453292, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - time: 0.25
+      value: {fileID: -1465499313, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - time: 0.375
+      value: {fileID: 2073532636, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - time: 0.5
+      value: {fileID: 1622030909, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - time: 0.625
+      value: {fileID: -1419967038, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -44,13 +54,18 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 1053826427, guid: ac4f98fa530d14a4089c0000db310266, type: 3}
+    - {fileID: 53419615, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - {fileID: 1979453292, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - {fileID: -1465499313, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - {fileID: 2073532636, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - {fileID: 1622030909, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
+    - {fileID: -1419967038, guid: 58ebae6287f8b21458a4631c8e0342de, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.125
+    m_StopTime: 0.75
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
